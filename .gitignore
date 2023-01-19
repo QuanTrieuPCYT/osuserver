@@ -1,0 +1,13 @@
+/.vscode
+__pycache__/
+/config.py
+/.data
+_testing/
+*.lprof
+ext/GeoLite2-City.mmdb
+.env
+tools/migrate_v420/go.sum
+tools/migrate_v420/scoreMigrator
+.venv/
+.mypy_cache/
+.pytest_cache/
