@@ -11,3 +11,4 @@ tools/migrate_v420/scoreMigrator
 .venv/
 .mypy_cache/
 .pytest_cache/
+.idea
