@@ -775,12 +775,12 @@ def change_username(old: str, new: str) -> bytes:
 
 
 BOT_STATUSES = (
-    (3, "the source code.."),  # editing
-    (6, "geohot livestreams.."),  # watching
-    (6, "asottile tutorials.."),  # watching
+    (3, "a hentai complication video"),  # editing
+    (6, "your dad having sex with your mom"),  # watching
+    (6, "uncensored hentai"),  # watching
     (6, "over the server.."),  # watching
-    (8, "out new features.."),  # testing
-    (9, "a pull request.."),  # submitting
+    (8, "if my dick can fit inside that usb-c port"),  # testing
+    (9, "1kpp scores"),  # submitting
 )
 
 # since the bot is always online and is
